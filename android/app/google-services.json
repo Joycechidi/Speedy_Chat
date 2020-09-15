@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "695026484024",
+    "firebase_url": "https://speedy-chat-f67af.firebaseio.com",
+    "project_id": "speedy-chat-f67af",
+    "storage_bucket": "speedy-chat-f67af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695026484024:android:56c315f45d5faea3a4b7cd",
+        "android_client_info": {
+          "package_name": "com.mindsetnuggets.speedy_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695026484024-a1ktf9rm46ak38f4m0prd4jjbn7mise6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAasMdWSXbjFeUyQCMfZSiuVr3emeEipJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695026484024-a1ktf9rm46ak38f4m0prd4jjbn7mise6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
